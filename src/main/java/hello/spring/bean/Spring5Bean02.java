@@ -7,11 +7,11 @@ public class Spring5Bean02 {
     }
 
     public void sayHelloEng(String msg) {
-        System.out.println("헬로, " +msg);
+        System.out.println("hello, " +msg);
     }
 
     public void sayHelloJpn(String msg) {
-        System.out.println("곤니치와, " +msg);
+        System.out.println("こんにちは, " +msg);
     }
 
 }

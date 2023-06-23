@@ -1,4 +1,4 @@
-package hello.spring;
+package hello.spring.bean;
 
 public class Spring5Bean01 {
 

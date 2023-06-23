@@ -1,5 +1,7 @@
 package hello.spring.basic;
 
+import hello.spring.bean.Spring5Bean01;
+
 public class Spring5App01 {
     // 두번재 사례
     // sayHello메서드를 외부 클래스로 옮기고

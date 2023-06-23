@@ -31,9 +31,9 @@ public class Spring5App03 {
         app03.sayHello("스프링5");
 
         app03 = new Spring5Bean03Eng();
-        app03.sayHello("스프링5");
+        app03.sayHello("Spring5");
 
         app03 = new Spring5Bean03Jpn();
-        app03.sayHello("스프링5");
+        app03.sayHello("スプリング5");
     }
 }

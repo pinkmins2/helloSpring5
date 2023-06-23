@@ -23,9 +23,9 @@ public class Spring5App04 {
         app04.sayHello("스프링5");
 
         app04 = Spring5bean04factory.create("eng");
-        app04.sayHello("hello5");
+        app04.sayHello("Spring5");
 
         app04 = Spring5bean04factory.create("jpn");
-        app04.sayHello("こんにちは5");
+        app04.sayHello("スプリング5");
     }
 }
