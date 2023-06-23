@@ -1,8 +1,7 @@
 package hello.spring.basic;
 
 public class Spring5App00 {
-    // 첫번재 사례
-    // 간단한 인사말을 출력하는 프로그램 작성
+
 
     // 인삿말을 출력하는 메서드가 현재 클래스안에 있기 때문에
     // 프로그램 확장성 측면에서 봤을때 제약이 존재
